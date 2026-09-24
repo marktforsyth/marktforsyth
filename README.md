@@ -1,18 +1,14 @@
-<strong>👋 Hello!</strong>
+*Hey!*
 
-I'm Mark Forsyth, and I really enjoy coding. These days I think of it more like an art form than anything else, and I love how much creating, puzzling, and designing goes into any given programming project.
+My name is Mark Forsyth. I love to write code, I love to do math, and I love to learn.
 
-My skills center around:
-- Web Development (ReactJS, TypeScript, NextJS, plain HTML/CSS/JS)
-- Python3
-- Unity C#
+I enjoy redesigning how things look, and I pay close attention to detail. Connected through my professor at Utah Valley University, I worked with the University of Victoria to update the styling on one of their websites in their Early Modern England Encyclopedia project. I made their existing pages mobile-responsive and I learned LEMDO XML to improve and add to their navigation system.
 
-I'm always dabbling around with new languages (e.g. Go, Rust, Elm . . .), and I'm excited to learn more.
+In personal projects I've spent a lot of time in the front end writing web interfaces with ReactJS and TypeScript, using frameworks like NextJS or libraries like React Router. I like experimenting with other toolkits such as Jetpack Compose/Kotlin for mobile development. I also feel comfortable parsing, sorting, and organizing data with Python, and right now I'm focusing on improving my Pandas and Pytorch skills.
 
-I'm in the market for internships, part-time, or contract work. Feel free to contact me at [marktforsyth@gmail.com](mailto:marktforsyth@gmail.com). I look forward to hearing from you.
+I love anything that challenges my brain and makes me think in a different way. Right now I'm assisting my professor Xi Chen in a research project using neural nets to solve partial differential equations, and it's exciting to dive into how neural nets work! I'm also agentically exploring ROS2 device driver code with Claude Code for my professor Brian Durney, to use in a future assignment about programming cars. I'm so excited to learn more about the lowest levels of computing--there are innovations to make in every area of programming.
 
-<em>P.S.</em>
+I would love to hear from you!.
 
-I'm really interested in the theory behind different programming paradigms and principles such as typesafety, declarative programming, immutability, functional programming, and overall language design. Oh also, ui design--I have so many thoughts.
-
-If you also like to think about programming theory, don't hesitate to reach out and maybe we can bounce ideas off of each other! If not, stay tuned--I'll probably start blogging about it soon . . .
+*Mark Forsyth* \
+*[marktforsyth@gmail.com](emailto:marktforsyth@gmail.com)*
