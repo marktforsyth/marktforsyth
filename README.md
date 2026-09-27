@@ -11,4 +11,4 @@ I love anything that challenges my brain and makes me think in a different way. 
 I would love to hear from you!.
 
 *Mark Forsyth* \
-*[marktforsyth@gmail.com](emailto:marktforsyth@gmail.com)*
+*[marktforsyth@gmail.com](mailto:marktforsyth@gmail.com)*
